@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\dev\source\repos\Lesson 11 OOP\Lesson 11 OOP\Source.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lesson 11 OOP.vcxproj -> C:\Users\dev\source\repos\Lesson 11 OOP\Debug\Lesson 11 OOP.exe
